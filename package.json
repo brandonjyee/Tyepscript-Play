@@ -1,0 +1,25 @@
+{
+  "name": "typescript-play",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonjyee/Typescript-Play.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandonjyee/Typescript-Play/issues"
+  },
+  "homepage": "https://github.com/brandonjyee/Typescript-Play#readme",
+  "devDependencies": {
+    "tslint": "^5.13.1",
+    "typescript": "^3.3.3333",
+    "typescript-tslint-plugin": "^0.3.1"
+  }
+}

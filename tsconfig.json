@@ -1,0 +1,25 @@
+{
+	"compilerOptions": {
+		"target": "ES5",
+		"inlineSourceMap": false,
+		"noEmitOnError": true,
+		"declaration": false,
+		"noImplicitAny": true,
+		"noLib": false,
+		"preserveConstEnums": false,
+		"suppressImplicitAnyIndexErrors": false,
+		"jsx": "react",
+		"lib": [
+			"es2015",
+			"es2015.iterable",
+			"dom"
+		]
+	},
+	"compileOnSave": true,
+	"formatCodeOptions": {
+		"convertTabsToSpaces": false
+	},
+	"plugins": [
+		{ "name": "typescript-tslint-plugin" }
+	]
+}
